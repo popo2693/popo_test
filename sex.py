@@ -4,6 +4,7 @@ print('hi guzzang')
 
 print('hi popo')
 
+print('bug fixed')
 # 운영중:메인
 # 다음버전배포대기 : 베타
 # 기능단위 : CODE_N
