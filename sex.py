@@ -15,3 +15,4 @@ print('bug fixed')
 # 2. 베타 REBASE 메인
 
 ## 가이드2
+# FEATURE 1.0 에서 기능 추가구현 확인 (브렌치 추가)
